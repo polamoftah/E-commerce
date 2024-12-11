@@ -1,0 +1,21 @@
+.Cart {
+}
+
+.table {
+  background-color: aliceblue;
+}
+.dark\:text-gray-400 {
+  background-color: aliceblue;
+}
+/* Normal light mode styles */
+.textGray400 {
+  color: rgb(156 163 175 / 1); /* Light mode text color */
+}
+
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  .textGray400 {
+    color: rgb(156 163 175 / 1); /* Dark mode text color */
+    background-color: white; /* Set the background to white in dark mode */
+  }
+}

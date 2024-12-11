@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+
+.btn{
+    @apply hover:bg-green-500 duration-500 py-1 mt-2 transition-all  border bg-cyan-500 text-white rounded-md p-2 w-full 
+    
+    }
+    
+}
