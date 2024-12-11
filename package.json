@@ -2,7 +2,7 @@
   "name": "final",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://polamoftah.github.io/E-commerce",
+  "homepage": "https://polamoftah.github.io/e-commerce-2",
   "type": "module",
   "scripts": {
     "dev": "vite",
